@@ -6,11 +6,11 @@
 
 DoT 는 Client Server 가 따로 분리 돼있는 Client-Server 아키택쳐로 만들었습니다.
 
-브랜치를 통해 Client 와 Server 각각을 확인 하실 수 있습니다!
+**브랜치를 통해 Client 와 Server 각각을 확인 하실 수 있습니다!**
 
 
 Client 는 React 및 TypeScript 를 사용하였고, Server 는 SpringBoot 및 Java 를 , DB 는 MariaDB를 사용하였습니다.
 
-요구사항 분석 , 기능 명세서 및 API 명세서등은 아래 Notion 사이트에서 확인하실 수 있습니다.
+요구사항 분석 , 기능 명세서 및 API 명세서등은 아래 **Notion** 사이트에서 확인하실 수 있습니다.
 
 https://sangbaek.notion.site/DoT-Discovery-of-Travel-f6c356624ee441ff9cbe1bfbe6ea72a4?pvs=4
