@@ -1,6 +1,7 @@
 **여행플래너 및 여행 정보 공유 사이트 DoT (Discovery of Travel)**
 ##
 DoT Client 는 React 및 TypeScript를 사용하여 제작하였습니다.  
+server 와의 API 통신은 Axios  비동기 통신 라이브러리를 사용하였습니다.
 
 ### 메인화면
 ![main](./readmeAssets/main.png) 
